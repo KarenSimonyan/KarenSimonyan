@@ -16,7 +16,7 @@
 ### Databases
 
 
-| [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/db/mongo.png" alt="MongoDB logo" width="34">](https://www.mongodb.com/)  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/db/mysql.svg" alt="MySQL logo" width="34">](https://www.mysql.com/)  |  
+| [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/db/mongo.png" alt="MongoDB logo" width="34">](https://www.mongodb.com/)  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/db/mysql.svg" alt="MySQL logo" width="40">](https://www.mysql.com/)  |  
 |---|---|
 
 ### Build Tools
@@ -38,8 +38,8 @@
 
 ## Learning
 
-|[<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/c.png" alt="C logo" width="34">](https://en.wikipedia.org/wiki/C_(programming_language))  |   [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/c_sharp.svg" alt="C# logo" width="34">](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))  |  [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/tool/dotnet.png" alt=".Net logo" width="34">](https://dotnet.microsoft.com/)  |   [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/tool/docker.png" alt="Docker logo" width="34">](https://www.docker.com/)  | 
-|---|---|---|---|
+|[<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/c.png" alt="C logo" width="34">](https://en.wikipedia.org/wiki/C_(programming_language))  |   [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/c_sharp.svg" alt="C# logo" width="34">](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))  |  [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/kotlin.png" alt="Kotlin logo" width="34">](https://kotlinlang.org/)  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/tool/dotnet.png" alt=".Net logo" width="34">](https://dotnet.microsoft.com/)  |   [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/tool/docker.png" alt="Docker logo" width="34">](https://www.docker.com/)  | 
+|---|---|---|---|---|
 ---
 
 
