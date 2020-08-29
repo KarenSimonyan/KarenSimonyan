@@ -3,7 +3,7 @@
 ### Social networks
 
 | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/social/linkedin.png" alt="LinkedIn logo" width="24">](https://www.linkedin.com/in/simonyankaren/) | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/social/github.png" alt="github logo" width="24">](https://github.com/KarenSimonyan) | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/social/twitter.png" alt="twitter logo" width="24">](https://twitter.com/SimonyanKaren) | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/social/stack_overflow.png" alt="StackOverflow logo" width="24">](https://stackoverflow.com/users/2838911/karen-simonyan) | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/social/stack_exchange.png" alt="StackExchange logo" width="24">](https://stackexchange.com/users/3382074/karen-simonyan) 
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 
 ## Knowledges
 
