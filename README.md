@@ -3,15 +3,15 @@
 ### Social networks
 
 | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/social/linkedin.png" alt="LinkedIn logo" width="24">](https://www.linkedin.com/in/simonyankaren/) | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/social/github.png" alt="github logo" width="24">](https://github.com/KarenSimonyan) | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/social/twitter.png" alt="twitter logo" width="24">](https://twitter.com/SimonyanKaren) | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/social/stack_overflow.png" alt="StackOverflow logo" width="24">](https://stackoverflow.com/users/2838911/karen-simonyan) | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/social/stack_exchange.png" alt="StackExchange logo" width="24">](https://stackexchange.com/users/3382074/karen-simonyan) 
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 
 ## Knowledges
 
 ### Programming Languages
 
 
-| [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/java.png" alt="Java logo" width="34">](https://www.java.com/)  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/python.png" alt="Python logo" width="34">](https://www.python.org/)  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/javascript.png" alt="JavaScript logo" width="34">](https://www.w3schools.com/js/g/) | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/nodejs.png" alt="NodeJs logo" width="34">](https://nodejs.org/)  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/bash.png" alt="Bash logo" width="34">](https://www.gnu.org/software/bash/)  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/mita.svg" alt="Mita logo" width="34">](https://www.eclipse.org/mita/) |  
-|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/java.png" alt="Java logo" width="34">](https://www.java.com/)  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/python.png" alt="Python logo" width="34">](https://www.python.org/)  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/javascript.png" alt="JavaScript logo" width="34">](https://www.w3schools.com/js/g/) | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/nodejs.png" alt="NodeJs logo" width="34">](https://nodejs.org/) |  [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/kotlin.png" alt="Kotlin logo" width="34">](https://kotlinlang.org/)   | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/bash.png" alt="Bash logo" width="34">](https://www.gnu.org/software/bash/)  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/mita.svg" alt="Mita logo" width="34">](https://www.eclipse.org/mita/)  
+|---|---|---|---|---|---|---|
 
 ### Databases
 
@@ -25,7 +25,7 @@
 |---|---|
 
 
-### Version Cotrols
+### Version Controls
 
 |[<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/vc/git.png" alt="Git logo" width="34">](https://git-scm.com/)  |   [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/vc/svn.png" alt="SVN logo" width="34">](https://subversion.apache.org/)  | 
 |---|---|
@@ -38,7 +38,7 @@
 
 ## Learning
 
-|[<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/c.png" alt="C logo" width="34">](https://en.wikipedia.org/wiki/C_(programming_language))  |   [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/c_sharp.svg" alt="C# logo" width="34">](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))  |  [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/kotlin.png" alt="Kotlin logo" width="34">](https://kotlinlang.org/)  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/tool/dotnet.png" alt=".Net logo" width="34">](https://dotnet.microsoft.com/)  |   [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/tool/docker.png" alt="Docker logo" width="34">](https://www.docker.com/)  | 
+|[<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/cpp.png" alt="C++ logo" width="34">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/c.png" alt="C logo" width="34">](https://en.wikipedia.org/wiki/C_(programming_language))  |   [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/lang/c_sharp.svg" alt="C# logo" width="34">](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))  | [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/tool/dotnet.png" alt=".Net logo" width="34">](https://dotnet.microsoft.com/)  |   [<img src="https://raw.githubusercontent.com/KarenSimonyan/KarenSimonyan/master/img/tool/docker.png" alt="Docker logo" width="34">](https://www.docker.com/)  | 
 |---|---|---|---|---|
 ---
 
